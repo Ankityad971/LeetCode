@@ -14,4 +14,8 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Ankityad971/LeetCode/tree/master/0027-remove-element) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Ankityad971/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
