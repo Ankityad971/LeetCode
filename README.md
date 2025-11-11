@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Ankityad971/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Ankityad971/LeetCode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/Ankityad971/LeetCode/tree/master/0136-single-number) |
+| [0474-ones-and-zeroes](https://github.com/Ankityad971/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0792-binary-search](https://github.com/Ankityad971/LeetCode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -29,4 +30,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ankityad971/LeetCode/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/Ankityad971/LeetCode/tree/master/0474-ones-and-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/Ankityad971/LeetCode/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
