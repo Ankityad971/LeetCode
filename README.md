@@ -9,6 +9,7 @@
 | [0136-single-number](https://github.com/Ankityad971/LeetCode/tree/master/0136-single-number) |
 | [0474-ones-and-zeroes](https://github.com/Ankityad971/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0792-binary-search](https://github.com/Ankityad971/LeetCode/tree/master/0792-binary-search) |
+| [2625-increment-submatrices-by-one](https://github.com/Ankityad971/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +39,12 @@
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Ankityad971/LeetCode/tree/master/0474-ones-and-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [2625-increment-submatrices-by-one](https://github.com/Ankityad971/LeetCode/tree/master/2625-increment-submatrices-by-one) |
+## Prefix Sum
+|  |
+| ------- |
+| [2625-increment-submatrices-by-one](https://github.com/Ankityad971/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 <!---LeetCode Topics End-->
