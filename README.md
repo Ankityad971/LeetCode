@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Ankityad971/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Ankityad971/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,4 +48,12 @@
 |  |
 | ------- |
 | [2625-increment-submatrices-by-one](https://github.com/Ankityad971/LeetCode/tree/master/2625-increment-submatrices-by-one) |
+## Sliding Window
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Ankityad971/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+## Enumeration
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Ankityad971/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 <!---LeetCode Topics End-->
