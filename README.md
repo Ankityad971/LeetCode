@@ -23,6 +23,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Ankityad971/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ankityad971/LeetCode/tree/master/0009-palindrome-number) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Ankityad971/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Ankityad971/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Ankityad971/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Ankityad971/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Dynamic Programming
 |  |
