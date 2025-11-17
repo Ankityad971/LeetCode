@@ -9,6 +9,7 @@
 | [0136-single-number](https://github.com/Ankityad971/LeetCode/tree/master/0136-single-number) |
 | [0474-ones-and-zeroes](https://github.com/Ankityad971/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0792-binary-search](https://github.com/Ankityad971/LeetCode/tree/master/0792-binary-search) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Ankityad971/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2625-increment-submatrices-by-one](https://github.com/Ankityad971/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 ## Hash Table
 |  |
