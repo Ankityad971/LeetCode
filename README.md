@@ -26,6 +26,7 @@
 | [0007-reverse-integer](https://github.com/Ankityad971/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ankityad971/LeetCode/tree/master/0009-palindrome-number) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Ankityad971/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [2571-find-the-pivot-integer](https://github.com/Ankityad971/LeetCode/tree/master/2571-find-the-pivot-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2571-find-the-pivot-integer](https://github.com/Ankityad971/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2625-increment-submatrices-by-one](https://github.com/Ankityad971/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 ## Sliding Window
 |  |
