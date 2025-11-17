@@ -10,6 +10,7 @@
 | [0474-ones-and-zeroes](https://github.com/Ankityad971/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0792-binary-search](https://github.com/Ankityad971/LeetCode/tree/master/0792-binary-search) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Ankityad971/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Ankityad971/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2625-increment-submatrices-by-one](https://github.com/Ankityad971/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 ## Hash Table
 |  |
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Ankityad971/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+## Sorting
+|  |
+| ------- |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Ankityad971/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 <!---LeetCode Topics End-->
