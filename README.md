@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/Ankityad971/LeetCode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/Ankityad971/LeetCode/tree/master/0136-single-number) |
 | [0474-ones-and-zeroes](https://github.com/Ankityad971/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Ankityad971/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/Ankityad971/LeetCode/tree/master/0792-binary-search) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Ankityad971/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Ankityad971/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
