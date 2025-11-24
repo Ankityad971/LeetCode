@@ -26,6 +26,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Ankityad971/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ankityad971/LeetCode/tree/master/0009-palindrome-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ankityad971/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ankityad971/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Ankityad971/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2571-find-the-pivot-integer](https://github.com/Ankityad971/LeetCode/tree/master/2571-find-the-pivot-integer) |
