@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ankityad971/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Ankityad971/LeetCode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/Ankityad971/LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Ankityad971/LeetCode/tree/master/0136-single-number) |
 | [0474-ones-and-zeroes](https://github.com/Ankityad971/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Ankityad971/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -48,6 +49,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ankityad971/LeetCode/tree/master/0053-maximum-subarray) |
 | [0474-ones-and-zeroes](https://github.com/Ankityad971/LeetCode/tree/master/0474-ones-and-zeroes) |
 ## Matrix
 |  |
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Ankityad971/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ankityad971/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
