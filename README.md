@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Ankityad971/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Ankityad971/LeetCode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Ankityad971/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Ankityad971/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Ankityad971/LeetCode/tree/master/0136-single-number) |
 | [0474-ones-and-zeroes](https://github.com/Ankityad971/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Ankityad971/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Ankityad971/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ankityad971/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Ankityad971/LeetCode/tree/master/0066-plus-one) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ankityad971/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ankityad971/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ankityad971/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
