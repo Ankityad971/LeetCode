@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/Ankityad971/LeetCode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Ankityad971/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ankityad971/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Ankityad971/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/Ankityad971/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ankityad971/LeetCode/tree/master/0169-majority-element) |
 | [0474-ones-and-zeroes](https://github.com/Ankityad971/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankityad971/LeetCode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Ankityad971/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Ankityad971/LeetCode/tree/master/0169-majority-element) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Ankityad971/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Two Pointers
@@ -61,6 +63,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Ankityad971/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [2625-increment-submatrices-by-one](https://github.com/Ankityad971/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 ## Prefix Sum
 |  |
