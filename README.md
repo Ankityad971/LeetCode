@@ -36,6 +36,7 @@
 | [0007-reverse-integer](https://github.com/Ankityad971/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ankityad971/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Ankityad971/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Ankityad971/LeetCode/tree/master/0070-climbing-stairs) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ankityad971/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ankityad971/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ankityad971/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ankityad971/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Ankityad971/LeetCode/tree/master/0070-climbing-stairs) |
 | [0474-ones-and-zeroes](https://github.com/Ankityad971/LeetCode/tree/master/0474-ones-and-zeroes) |
 ## Matrix
 |  |
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ankityad971/LeetCode/tree/master/0169-majority-element) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ankityad971/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
