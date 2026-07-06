@@ -14,6 +14,7 @@
 | [0474-ones-and-zeroes](https://github.com/Ankityad971/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Ankityad971/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/Ankityad971/LeetCode/tree/master/0792-binary-search) |
+| [1288-remove-covered-intervals](https://github.com/Ankityad971/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1480-running-sum-of-1d-array](https://github.com/Ankityad971/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Ankityad971/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Ankityad971/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ankityad971/LeetCode/tree/master/0169-majority-element) |
+| [1288-remove-covered-intervals](https://github.com/Ankityad971/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Ankityad971/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Divide and Conquer
 |  |
