@@ -1,26 +1,19 @@
 class Solution {
 public:
     long long sumAndMultiply(int n) {
+        string s = to_string(n);
 
-        long long an = 0;
+        long long num = 0;
         int sum = 0;
-        while (n > 0) {
-            int r = n % 10;
-            if (r != 0)
-                an = an * 10 + r;
-            n /= 10;
-            sum += r;
+
+        for (char c : s) {
+            int d = c - '0';
+            sum += d;
+
+            if (d != 0)
+                num = num * 10 + d;
         }
 
-        long long f = 0;
-        while (an > 0) {
-            int r = an % 10;
-            f = f * 10 + r;
-            an /= 10;
-        }
-        
-            return f * sum;
-
-        return f;
+        return num * 1LL * sum;
     }
 };
