@@ -43,6 +43,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ankityad971/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Ankityad971/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2571-find-the-pivot-integer](https://github.com/Ankityad971/LeetCode/tree/master/2571-find-the-pivot-integer) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ankityad971/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
 | ------- |
